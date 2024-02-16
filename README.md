@@ -1,6 +1,7 @@
 # Information Retrieval
 
-Projects investigating Information Retrieval Principles
+
+[Projects investigating Information Retrieval Principles](https://github.com/jatanjay/InformationRetrieval)
 
 ## Project 1: Text Processing Methods
 - Tokenization, regex, Porter Stemming
@@ -12,3 +13,4 @@ Projects investigating Information Retrieval Principles
 - Boolean Queries, BM25, Query Likelihood (QL), etc.
 
 ## Project X: Implementing PageRank on a 300mb Links Dataset
+
