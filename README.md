@@ -14,4 +14,4 @@
 
 ## Project X: Implementing PageRank on a 300mb Links Dataset
 
-[home](https://jatanjay.github.io/jatanjay/projects/)
+[home](https://jatanjay.github.io//projects/)
